@@ -1,0 +1,14 @@
+{
+  "civic": {
+    "nome": "Civic",
+    "fotos": ["/fotos/civic/1.jpg", "/fotos/civic/2.jpg", "/fotos/civic/3.jpg"]
+  },
+  "bmw": {
+    "nome": "BMW",
+    "fotos": ["/fotos/bmw/1.jpg", "/fotos/bmw/2.jpg", "/fotos/bmw/3.jpg"]
+  },
+  "porsche": {
+    "nome": "Porsche",
+    "fotos": ["/fotos/porsche/1.jpg", "/fotos/porsche/2.jpg", "/fotos/porsche/3.jpg"]
+  }
+}

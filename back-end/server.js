@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const path = require("path");
-const carros = require("./data/carros.json");
+const carros = require("./data/fotos/cars.json");
 
 const app = express();
 const PORT = 3000;
