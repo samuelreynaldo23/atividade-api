@@ -1,3 +1,1 @@
-![alt text](./prints/Captura%20de%20tela%202026-10-14%20120849.pngimage.png)
-![alt text](./prints/Captura%20de%20tela%202026-10-14%20120904.pngimage-1.png)
-![alt text](./prints/Captura%20de%20tela%202026-10-14%20120918.pngimage-2.png)
+![alt text](<prints/Captura de tela 2026-10-14 120918.png>) ![alt text](<prints/Captura de tela 2026-10-14 120904.png>) ![alt text](<prints/Captura de tela 2026-10-14 120849.png>)
